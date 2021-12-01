@@ -51,18 +51,16 @@ very in-depth description of [[Nick]] on pages 19-20
 
 what is an "[[Eyes incognito|Eye]]"
 
-"Blessed be the fruit" and "May the Lord open" is a common greeting and response among [[Handmaids]] (just [[Handmaids]]?)
-
-"under His eye" is a goodbye
+[[Culture]]
 
 [[Ofglen]] is [[Offred]]'s [[Handmaids travel in pairs|partner]]
 
 there is a [[The War|war]]?
 
-different designations of people have different [[Colours]]
+different designations of people have different [[Colours]], these colours are what they wear and how their belongings are organized 
 
 the guards that carry guns are not [[Guardians of the faith]] but are specially picked [[Angels]]
 
 is this new society worldwide or just the united states? 
-- just the us or at least north America
+- just the us or at least just north America
 

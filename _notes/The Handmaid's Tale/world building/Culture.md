@@ -12,3 +12,8 @@ the Asian tourists ask:
 
 
 
+
+
+"Blessed be the fruit" and "May the Lord open" is a common greeting and response among [[Handmaids]] (just [[Handmaids]]?)
+
+"under His eye" is a goodbye
