@@ -1,3 +1,9 @@
+---
+layout: page
+title: Home
+id: home
+permalink: /
+---
 # Readers Notes
 the [[Handmaids]] are kept in what is described to me as seeming almost prison like
 
