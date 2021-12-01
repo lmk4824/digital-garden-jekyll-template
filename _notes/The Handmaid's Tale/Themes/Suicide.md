@@ -1,5 +1,5 @@
 Suicide is a very common subject
-although [[Offred]] seems to have. No intentions or thoughts of killing herself
+although [[Offred]] seems to have no intentions or thoughts of killing herself
 
 quite a bit of effort seems to be put into keeping the [[Handmaids]] for killing themselves
 

@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 # Readers Notes
-the [[Handmaids]] are kept in what is described to me as seeming almost prison like
+the [[Handmaids]] are kept in what is described to me as seeming almost [[Suicide|prison like]]
 
 >"they've removed anything you could tie a rope to" 
 >-pg. 7
@@ -20,8 +20,6 @@ the [[Handmaids]] are kept in what is described to me as seeming almost prison l
 > -pg. 9
 
 Is [[Rita]] the [[Wives|Commanders wife]]?
-
-[[Cora]] had her tubes tied
 
 who are the [[Marthas]]
 
