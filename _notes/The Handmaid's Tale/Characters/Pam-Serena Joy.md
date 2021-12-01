@@ -1,3 +1,7 @@
+---
+aliases: [Pam, Serena Joy]
+---
+
 Pam is the commanders wife
 
 Serena Joy is a stage name that Pam would use to give speeches

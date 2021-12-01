@@ -1,4 +1,4 @@
-i have no idea who "the Marthas" are
-
-servants maybe?
-If so, are [[Cora]] and [[Rita]] Marthas? 
+- i have no idea who "the Marthas" are
+	- servants maybe?
+	- If so, are [[Cora]] and [[Rita]] Marthas?
+		- that would explain their relation to [[Offred]] and [[the commander]] 

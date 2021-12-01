@@ -1,6 +1,6 @@
-religion is a very strongly portrayed theme as it is almost centrally to both their society and government although it is portrayed in a way that most of the citizens to not see it to be religion
+- religion is a very strongly portrayed theme as it is almost centrally to both their [[Culture|society]] and government although it is portrayed in a way that most of the citizens to not see it to be religion
 
-[[Ofglen]] always bows her head and pauses for a length of time when her and [[Offred]] pass the church on their walk
+- [[Ofglen]] always bows her head and pauses for a length of time when her and [[Offred]] pass the church on their walk
 
 >"Admission(to the church) is free"
 >-pg. 35
