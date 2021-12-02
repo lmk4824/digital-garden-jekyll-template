@@ -5,9 +5,9 @@ id: home
 permalink: /
 ---
 # Readers Notes
-- the [[Handmaids]] are kept in what is described to me as seeming almost [[Suicide|prison like]]
+- the [[Handmaids]] are kept in what is described to me as seeming almost prison like
 
->"they've removed anything you could tie a rope to" 
+>"they've removed anything you could [[Suicide|tie a rope to]]" 
 >-pg. 7
 
 > "flowers are still allowed"
