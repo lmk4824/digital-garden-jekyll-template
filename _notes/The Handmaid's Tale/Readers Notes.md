@@ -38,7 +38,7 @@ permalink: /
 
 - the scarves are for [[Angels]], are the [[Angels]] children?
 
-- [[The Commander]]'s [[Wives|wife]] is [[Pam-Serena Joy|Serena Joy]]
+- [[The Commander]]'s [[Wives|wife]] is [[Pam|Serena Joy]]
 
 - [[The Commander]]'s driver is named [[Nick]]
 
