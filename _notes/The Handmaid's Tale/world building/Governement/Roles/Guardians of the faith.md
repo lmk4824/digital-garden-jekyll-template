@@ -1,5 +1,6 @@
 ---
-aliases: [Guardians of the Faith, Guardians]
+aliases: Guardians
+title: Guardians of the Faith
 ---
 
 >"Guardians aren't real soldiers"

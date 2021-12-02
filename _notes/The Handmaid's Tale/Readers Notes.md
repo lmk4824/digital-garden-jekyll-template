@@ -53,7 +53,7 @@ permalink: /
 
 - different designations of people have different [[Colours]] 
 
-- the guards that carry guns are not [[Guardians of the faith]] but are specially picked [[Angels]]
+- the guards that carry guns are not [[Guardians of the Faith]] but are specially picked [[Angels]]
 
 - is this new [[Culture|society]] worldwide or just the united states? 
 	- just the us or at least just north America

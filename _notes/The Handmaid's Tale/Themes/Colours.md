@@ -1,7 +1,7 @@
 - [[Commanders]] = Black
 - [[Wives]] = Blue
 - [[Handmaids]] = Red
-- [[Guardians of the faith]] = Green
+- [[Guardians of the Faith]] = Green
 
 - Econ= same colours but striped
 

@@ -19,9 +19,9 @@
 > "thinking can hurt your chances, and i intend to last"
 > -pg. 8
 
-- Offred sees herself as a reward, "a bone teasing a dog" this makes her feel [[Power|powerful]], she holds this [[Power]] over the [[Guardians of the faith|guards]], not for any leverage but simply for her own entertainment
+- Offred sees herself as a reward, "a bone teasing a dog" this makes her feel [[Power|powerful]], she holds this [[Power]] over the [[Guardians of the Faith|guards]], not for any leverage but simply for her own entertainment
 
-- Offred was alive during [[The time before]]
+- Offred was alive during [[The Time Before]]
 
 >“It smells of me, in former times, when I was a mother.”
 >-pg. 52
@@ -32,11 +32,11 @@
 		- What happened to that child?
 	- Or is it all a metaphor?
 
-- [[Luke]] and Offred were [[Love|married]] in [[The time before]]
+- [[Luke]] and Offred were [[Love|married]] in [[The Time Before]]
 	- is that who she had her child with?
 	- before they were married they were having an affair
 
-	>"though at [[The time before|that time]] men and women tried each other on, casually, like suits, rejecting whatever didn't fit."
+	>"though at [[The Time Before|that time]] men and women tried each other on, casually, like suits, rejecting whatever didn't fit."
 	>-pg. 56
 
 	>"We thought we had such problems. How were we to know we were happy"

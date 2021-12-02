@@ -1,5 +1,6 @@
 ---
 aliases: [war]
+title: The War
 ---
 
 - the rebels (this time?) were/are Baptists 
