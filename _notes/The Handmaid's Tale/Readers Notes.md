@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Home
-id: Home
+page.id: Home
 permalink: /
 ---
 # Readers Notes
