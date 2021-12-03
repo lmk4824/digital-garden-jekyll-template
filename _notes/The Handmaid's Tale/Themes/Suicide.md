@@ -1,5 +1,5 @@
 ---
-aliases: [kill himself, kill herself, kill themselves, killing himself, killing herself, killing themselves]
+aliases: kill himself, kill herself, kill themselves, killing himself, killing herself, killing themselves
 ---
 - Suicide is a very common subject, although [[Offred]] seems to have no intentions ~~or thoughts~~ of killing herself
 	- on page 57 she says "A stocking, that's all you'd need"

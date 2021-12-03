@@ -1,5 +1,5 @@
 ---
-aliases: [Wives, Wife]
+aliases: Wife
 ---
 
 - Wives are assigned to [[Commanders]] once they reach a specific social class (rank?)

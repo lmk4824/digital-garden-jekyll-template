@@ -1,5 +1,5 @@
 ---
-aliases: [war]
+aliases: war
 title: The War
 ---
 

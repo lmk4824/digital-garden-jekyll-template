@@ -1,5 +1,5 @@
 ---
-aliases: [Angels, Angle]
+aliases: Angel
 ---
 - Angles fight in [[The War]]
 - The [[Wives]] will sometimes knit scarves for the Angels

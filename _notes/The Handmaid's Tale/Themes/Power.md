@@ -1,5 +1,5 @@
 ---
-aliases: [Powerful]
+aliases: Powerful
 ---
 - this new [[Culture|society]] revolves around the structure of power, as any [[Culture|society]] does 
 

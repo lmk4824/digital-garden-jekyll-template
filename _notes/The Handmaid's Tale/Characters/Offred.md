@@ -45,3 +45,5 @@
 >"When I saw that, that evidence left by two people, of [[love]] or something like it, desire at least, at least touch, between two people now perhaps old or dead, I covered the bed again and lay down on it. I looked up at the blind plaster eye in the ceiling. I wanted to feel [[Luke]] lying beside me. I have them, these attacks of the past, like faintness, a wave sweeping over my head."
 >-pg. 57
 
+- "Nolite te bastards carborundorum." is carved into the floor of the darkest corner of Offred room
+	- writing is forbidden

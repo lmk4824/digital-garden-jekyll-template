@@ -1,5 +1,5 @@
 ---
-aliases: [society]
+aliases: society
 ---
 
 >"the women here(the USA) have different customs, to stare at them though the lens of a camera is, for them([[Handmaids]]), an experience of violation."

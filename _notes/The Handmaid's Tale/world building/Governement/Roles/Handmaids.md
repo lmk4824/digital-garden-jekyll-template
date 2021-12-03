@@ -1,5 +1,5 @@
 ---
-aliases: [Handmaids, Handmaid]
+aliases: Handmaid
 ---
 
 - Handmaids are women of lesser [[Power]] who are assigned to [[Commanders]] to bear their children
