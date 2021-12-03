@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Home
-id: home
+id: Home
 permalink: /
 ---
 # Readers Notes
 - the [[Handmaids]] are kept in what is described to me as seeming almost prison like
 
->"they've removed anything you could [[Suicide|tie a rope to]]" 
+>"they've removed anything you could [[Suicide|tie a rope to]]"
 >-pg. 7
 
 > "flowers are still allowed"
@@ -31,9 +31,9 @@ permalink: /
 
 - [[Rita]] is not [[the Commander]]'s [[Wives|wife]]
 	- [[the Commander]]'s [[Wives|wife]] does not speak to [[Offred]] unless absolutely necessary
-	- [[Rita]] does speak to [[Offred]] 
+	- [[Rita]] does speak to [[Offred]]
 
-> "they aren't scarves for gown men but for children" 
+> "they aren't scarves for gown men but for children"
 > -pg. 14
 
 - the scarves are for [[Angels]], are the [[Angels]] children?
@@ -43,7 +43,7 @@ permalink: /
 - [[The Commander]]'s driver is named [[Nick]]
 
 
-> "perhaps he ([[Nick]]) is an [[Eyes incognito|Eye]]" 
+> "perhaps he ([[Nick]]) is an [[Eyes incognito|Eye]]"
 > -pg. 20
 - what is an "[[Eyes incognito|Eye]]"
 
@@ -51,14 +51,9 @@ permalink: /
 
 - there is a [[The War|war]]?
 
-- different designations of people have different [[Colours]] 
+- different designations of people have different [[Colours]]
 
 - the guards that carry guns are not [[Guardians of the Faith]] but are specially picked [[Angels]]
 
-- is this new [[Culture|society]] worldwide or just the united states? 
+- is this new [[Culture|society]] worldwide or just the united states?
 	- just the us or at least just north America
-
-
-
-
-
