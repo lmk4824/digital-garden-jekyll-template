@@ -2,7 +2,7 @@
 aliases: society
 ---
 
->"the women here(the USA) have different customs, to stare at them though the lens of a camera is, for them([[Handmaids]]), an experience of violation."
+>"the women here(the USA) have different customs, to stare at them though the lens of a camera is, for them([[Handmaids]]?), an experience of violation."
 >-pg. 33
 
 - in [[The Time Before]] [[Luke]] tells [[Offred]] that the word "mayday" comes from they french word ___ meaning "help me"
