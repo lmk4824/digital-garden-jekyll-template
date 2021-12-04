@@ -23,7 +23,7 @@
 
 - Offred was alive during [[The Time Before]]
 
->“It smells of me, in former times, when I was a mother.”
+>“It smells of me, in [[The Time Before|former times]], when I was a mother.”
 >-pg. 52
 
 - Offred had a child? 
