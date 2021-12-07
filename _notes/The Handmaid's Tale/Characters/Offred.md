@@ -1,5 +1,8 @@
 - Offred is our protagonist as well as our narrator
 - This is not her actual name, we are not told her true name however this is how she is referred to by the author
+	>"     This name is composed of a man's first name, Fred, and a prefix denoting "belonging to," so it is like "de" in French or "von" in German, or like the suffix -son in English last names such as Williamson. Within this name is concealed another possibility: "offered," denoting a religious offering or a victim offered for sacrifice.
+	>Why do we never learn the real name of the central character? I have often been asked. Because, I reply, so many people throughout history have had their names changed or have simply disappeared from view." 
+	>\-authors notes, xiii
 
 - Offred is a [[Handmaids|Handmaid]]
 
@@ -47,3 +50,7 @@
 
 - "Nolite te bastards carborundorum." is carved into the floor of the darkest corner of Offred room
 	- writing is forbidden
+
+- Offred is very clever
+
+- when Offred, [[Luke]] and offred's daughter(we don't know if [[Luke]] is the father) lived together, they had a cat

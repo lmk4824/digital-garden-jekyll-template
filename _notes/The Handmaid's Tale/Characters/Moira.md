@@ -1,0 +1,3 @@
+- the first time Moira is mentioned is on page four amongst the list of names the girls whisper in the gymnasium
+- she is not mentioned again until page 62 were she seems to be a friend of [[Offred]]'s, likely also a [[Handmaids|handmaid]], perhaps a room mate
+- 

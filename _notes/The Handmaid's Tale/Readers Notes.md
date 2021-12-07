@@ -57,3 +57,8 @@ permalink: /
 
 - is this new [[Culture|society]] worldwide or just the united states?
 	- just the us or at least just north America
+
+- many other women had stayed in what is now [[Offred]]'s room b4 her
+
+>"The spectacles women used to make of themselves. Oiling themselves like roast meat on a spit, and bare backs and shoulders, on the street, in public, and legs, not even stockings on them, no wonder those things used to happen. Things, the word she used when whatever it stood for was too distasteful or filthy or horrible to pass her lips. A successful life for her was one that avoided things, excluded things. Such things do not happen to nice women. And not good for the complexion, not at all, wrinkle you up like a dried apple. But we weren't supposed to care about our complexions any more, she'd forgotten that."
+>-pg. 61

@@ -2,3 +2,5 @@
 
 - Rita is older than [[Cora]]
 - Older than 60
+
+- sometimes hums while kneading or pealing
