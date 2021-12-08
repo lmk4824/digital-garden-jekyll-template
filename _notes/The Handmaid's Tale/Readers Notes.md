@@ -22,7 +22,9 @@ permalink: /
 
 - tokens are like money but can only be exchanged for specific items
 
-- [[Offred]] has a "pass", what is this pass for
+- [[Offred]] has a "pass"
+	- what is this pass for?
+		- it seems to be a for of id card (pg. 66)
 
 - [[Offred]]'s room is [[Suicide]] "proof"
 
@@ -40,8 +42,7 @@ permalink: /
 
 - [[The Commander]]'s [[Wives|wife]] is [[Pam|Serena Joy]]
 
-- [[The Commander]]'s driver is named [[Nick]]
-
+- [[The Commander]]'s driver is named [[Nick#^4360d2|Nick]]
 
 > "perhaps he ([[Nick]]) is an [[Eyes incognito|Eye]]"
 > -pg. 20
@@ -62,3 +63,10 @@ permalink: /
 
 >"The spectacles women used to make of themselves. Oiling themselves like roast meat on a spit, and bare backs and shoulders, on the street, in public, and legs, not even stockings on them, no wonder those things used to happen. Things, the word she used when whatever it stood for was too distasteful or filthy or horrible to pass her lips. A successful life for her was one that avoided things, excluded things. Such things do not happen to nice women. And not good for the complexion, not at all, wrinkle you up like a dried apple. But we weren't supposed to care about our complexions any more, she'd forgotten that."
 >-pg. 61
+
+- a doctor wears a pistol on his shoulder
+
+>"When I'm called I go through the doorway into the inner room. It's white, featureless, like the outer one, except for a folding screen, red cloth stretched on a frame, a gold eye painted on it, with a snake-twined sword upright beneath it, like a sort of handle. The snakes and the sword are bits of broken symbolism left over from [[the time before]]."
+>-pg. 67
+
+- see pages 68,69 [[Culture]], [[Law]], [[Unwomen]], [[Colonies]]

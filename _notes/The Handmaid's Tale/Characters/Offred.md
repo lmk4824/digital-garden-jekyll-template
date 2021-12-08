@@ -54,3 +54,12 @@
 - Offred is very clever
 
 - when Offred, [[Luke]] and offred's daughter(we don't know if [[Luke]] is the father) lived together, they had a cat
+
+- Offred has had other(at least one) [[commanders]] before [[The Commander]]
+
+>"I ought to feel hatred for this man([[The Commander]]). I know I ought to feel it, but it isn't what I do feel. What I feel is more complicated than that. I don't know what to call it. It isn't [[love]]."
+
+>"I go to the window and sit on the window seat, which is too narrow for comfort. There's a hard little cushion on it, with a petit-point cover: FAITH, in square print, surrounded by a wreath of lilies. FAITH is a faded blue, the leaves of the lilies a dingy green. This is a cushion once used elsewhere, worn but not enough to throw out. Somehow it's been overlooked."
+>-pg. 64
+
+- this cushion is in [[Offred]]'s room yet it is [[Colours#^91123b|green and blue, not red]]
