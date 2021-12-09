@@ -8,7 +8,7 @@ aliases: society
 - in [[The Time Before]] [[Luke]] tells [[Offred]] that the word "mayday" comes from they french word ___ meaning "help me"
 
 - the Asian tourists ask:
->"Are you ([[Offred]]&[[Ofglen]]) happy?"
+>"Are you ([[Offred]] & [[Ofglen]]) happy?"
 >-pg. 33
 
 >"they still have those(football games)"

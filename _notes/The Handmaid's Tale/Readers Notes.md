@@ -66,7 +66,7 @@ permalink: /
 
 - a doctor wears a pistol on his shoulder
 
->"When I'm called I go through the doorway into the inner room. It's white, featureless, like the outer one, except for a folding screen, red cloth stretched on a frame, a gold eye painted on it, with a snake-twined sword upright beneath it, like a sort of handle. The snakes and the sword are bits of broken symbolism left over from [[the time before]]."
+>"When I'm called I go through the doorway into the inner room. It's white, featureless, like the outer one, except for a folding screen, [[Colours#^91123b|red cloth]] stretched on a frame, a gold eye painted on it, with a snake-twined sword upright beneath it, like a sort of handle. The snakes and the sword are bits of broken symbolism left over from [[the time before]]."
 >-pg. 67
 
 - see pages 68,69 [[Culture]], [[Law]], [[Unwomen]], [[Colonies]]
