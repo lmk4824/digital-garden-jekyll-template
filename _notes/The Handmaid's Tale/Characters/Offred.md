@@ -4,6 +4,8 @@
 	>Why do we never learn the real name of the central character? I have often been asked. Because, I reply, so many people throughout history have had their names changed or have simply disappeared from view." 
 	>\-authors notes, xiii
 
+- page 95 - her name
+
 - Offred is a [[Handmaids|Handmaid]]
 
 > "the room, not my room"
@@ -33,10 +35,15 @@
 	- When?
 	- Why doesn’t she anymore? 
 		- What happened to that child?
+			- she died when she was five - page 72
+			- now offred is saying she's not dead..?
+			>"Eight, she must be now. I've filled in the time I lost, I know how much there's been. They were right, it's easier, to think of her as dead. I don't have to hope then, or make a wasted effort. Why bash your head, said [[Aunt Lydia]], against a wall? Sometimes she had a graphic way of putting things."
+			>-pg. 73
 	- Or is it all a metaphor?
 
 - [[Luke]] and Offred were [[Love|married]] in [[The Time Before]]
 	- is that who she had her child with?
+		- probably, not directly said tho
 	- before they were married they were having an affair
 
 	>"though at [[The Time Before|that time]] men and women tried each other on, casually, like suits, rejecting whatever didn't fit."
@@ -63,3 +70,13 @@
 >-pg. 64
 
 - this cushion is in [[Offred]]'s room yet it is [[Colours|green and blue, not red]]
+
+>"My nakedness is strange to me already. My body seems outdated. Did I really wear bathing suits, at the beach? I did, without thought, among men, without caring that my legs, my arms, my thighs and back were on display, could be seen. *Shameful, immodest.* I avoid looking down at my body, not so much because it's shameful or immodest but because I don't want to see it. I don't want to look at something that determines me so completely."
+>-pg. 71
+
+>"I cannot avoid seeing, now, the small tattoo on my ankle. Four digits and an eye, a passport in reverse. It's supposed to guarantee that I will never be able to fade, finally, into another landscape. I am too important, too scarce, for that. I am a national resource."
+>-pg. 73
+
+>"I wait. I compose myself. My self is a thing I must now compose, as one composes a speech. What I must present is a made thing, not something born."
+>-pg.75
+

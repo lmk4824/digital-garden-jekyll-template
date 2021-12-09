@@ -70,3 +70,16 @@ permalink: /
 >-pg. 67
 
 - see pages 68,69 [[Culture]], [[Law]], [[Unwomen]], [[Colonies]]
+
+>"I thought it was an isolated incident, at the time."
+>-pg. 72
+
+- this is [[Offred]] talking about when her daughter was taken in a grocery store
+
+>"i think of the others, those without"
+>-pg. 74
+
+>"But maybe boredom is erotic, when women do it, for men."
+>-pg.79
+
+- see page 82: rape, rape shaming, blaming the victim publicly

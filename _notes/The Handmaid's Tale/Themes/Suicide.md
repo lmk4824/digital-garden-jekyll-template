@@ -12,3 +12,6 @@ aliases: kill himself, kill herself, kill themselves, killing himself, killing h
 
 >"how could they have overlooked the hooks? Why didn't they remove them? to close to the floor? But still, a stocking, that's all you'd need."
 >-pg. 57
+
+>"There were incidents in bathrooms at first; there were cuttings, drownings. Before they got all the bugs ironed out."
+>-pg. 70

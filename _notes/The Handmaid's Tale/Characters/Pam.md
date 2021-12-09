@@ -1,5 +1,5 @@
 ---
-aliases: Serena Joy
+aliases: Serena Joy, Serena
 ---
 
 Pam is [[the commander]]'s [[Wives|wife]]

@@ -26,3 +26,4 @@ aliases: society
 >"the doctor will never see my face. He deals with a torso only."
 >-pg. 67
 
+>"I've learned to do without a lot of things. If you have a lot of things, said [[Aunt Lydia]], you get too attached to this material world and you forget about spiritual values. You must cultivate poverty of spirit. Blessed are the meek. She didn't go on to say anything about inheriting the earth.''
