@@ -1,10 +1,12 @@
 ---
-aliases: Serena Joy, Serena
+aliases: Serena Joy, Pam
 ---
 
-Pam is [[the commander]]'s [[Wives|wife]]
+- Pam is [[the commander]]'s [[Wives|wife]]
 
-Serena Joy is a stage name that Pam would use to give speeches
+- Serena Joy is a stage name that Pam would use to give speeches
 >"Her speeches were about the sanctity of the home, about how women should stay at home. Serena Joy didn't do this herself, she made speeches instead, but she presented this failure of hers as a sacrifice she was making for the good of all"
 >-pg. 50
+
+- Serena cries during the ceremony
 

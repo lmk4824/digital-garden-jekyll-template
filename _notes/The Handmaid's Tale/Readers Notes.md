@@ -24,7 +24,7 @@ permalink: /
 
 - [[Offred]] has a "pass"
 	- what is this pass for?
-		- it seems to be a for of id card (pg. 66)
+		- it seems to be a form of identification card (pg. 66)
 
 - [[Offred]]'s room is [[Suicide]] "proof"
 
@@ -38,9 +38,10 @@ permalink: /
 > "they aren't scarves for gown men but for children"
 > -pg. 14
 
-- the scarves are for [[Angels]], are the [[Angels]] children?
-
-- [[The Commander]]'s [[Wives|wife]] is [[Pam|Serena Joy]]
+- the scarves are for [[Angels]]
+	- are the [[Angels]] children?
+		- but the [[angels]] fight in [[the war]]
+- [[The Commander]]'s [[Wives|wife]] is [[Serena|Serena Joy]]
 
 - [[The Commander]]'s driver is named [[Nick]]
 
@@ -82,4 +83,13 @@ permalink: /
 >"But maybe boredom is erotic, when women do it, for men."
 >-pg.79
 
-- see page 82: rape, rape shaming, blaming the victim publicly
+- see page 82: rape shaming, blaming the victim publicly
+
+>"you cant expect a child to lie convincingly"
+>-pg. 96
+
+- when [[the commander]] reads from the bible, we are told what he reads from [[Offred]]'s internal monologue, nothing is quoted and anything that seems to be a quote is simply in italics, implying that she is thinking of the quote rather than hearing it, until the end when we get this:
+	>""And Leah said, God hath given me my hire, because I have given my maiden to my husband," says [[the Commander]]. He lets the book fall closed."
+	>-pg. 102
+
+- **chapter 16, 106-110, the ceremony**

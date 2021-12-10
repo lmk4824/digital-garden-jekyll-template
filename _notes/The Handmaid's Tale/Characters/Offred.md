@@ -80,3 +80,4 @@
 >"I wait. I compose myself. My self is a thing I must now compose, as one composes a speech. What I must present is a made thing, not something born."
 >-pg.75
 
+>"how she([[Serena]]) must hate me, i think"
