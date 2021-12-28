@@ -1,6 +1,6 @@
 - Offred is our protagonist as well as our narrator
 - This is not her actual name, we are not told her true name however this is how she is referred to by the author
-	>"     This name is composed of a man's first name, Fred, and a prefix denoting "belonging to," so it is like "de" in French or "von" in German, or like the suffix -son in English last names such as Williamson. Within this name is concealed another possibility: "offered," denoting a religious offering or a victim offered for sacrifice.
+	>"32This name is composed of a man's first name, Fred, and a prefix denoting "belonging to," so it is like "de" in French or "von" in German, or like the suffix -son in English last names such as Williamson. Within this name is concealed another possibility: "offered," denoting a religious offering or a victim offered for sacrifice.
 	>Why do we never learn the real name of the central character? I have often been asked. Because, I reply, so many people throughout history have had their names changed or have simply disappeared from view." 
 	>\-authors notes, xiii
 
@@ -81,3 +81,18 @@
 >-pg.75
 
 >"how she([[Serena]]) must hate me, i think"
+
+>"I want [[Luke]] here so badly. I want to be held and told my name. I want to be valued, in ways that I am not; I want to be more than valuable. I repeat my former name, remind myself of what I once could do, how others saw me.
+>I want to steal something."
+>pg 111
+
+>"I too am a missing person."
+>pg 118
+
+>"I believe in thought transference now, vibrations in the ether, that sort of junk."
+>pg 121
+	- offred is desperate
+		- her [[Love]] for [[Luke]] is making her believe in the other-worldly simply because it brings her comfort to believe that he is thinking of her and that he is not lost
+
+
+

@@ -1,4 +1,4 @@
-- Cigarettes and alcohol are illegal
+- Cigarettes and alcohol are illegal 123
 
 >"evidence from a single women is no-longer admissible"
 >-pg. 37
@@ -11,3 +11,4 @@
 	- it is never clearly stated but i think the crimes these doctors committed was abortion
 
 - writing is forbidden
+	- possibly just for women

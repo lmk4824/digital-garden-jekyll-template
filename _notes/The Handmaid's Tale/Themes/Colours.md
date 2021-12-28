@@ -2,6 +2,7 @@
 - [[Wives]] = Blue
 - [[Handmaids]] = Red
 - [[Guardians of the Faith]] = Green
+- what colour are [[marthas]]
 
 - Econ= same colours but striped
 
