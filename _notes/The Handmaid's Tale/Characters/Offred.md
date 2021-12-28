@@ -91,8 +91,10 @@
 
 >"I believe in thought transference now, vibrations in the ether, that sort of junk."
 >pg 121
-	- offred is desperate
-		- her [[Love]] for [[Luke]] is making her believe in the other-worldly simply because it brings her comfort to believe that he is thinking of her and that he is not lost
+- Offred is desperate
+	- her [[Love]] for [[Luke]] is making her believe in the other-worldly simply because it brings her comfort to believe that he is thinking of her and that he is not lost
 
-
+>"Maybe the life I think I'm living is a paranoid delusion."
+>pg 125
+- Offred is becoming less and less sure of herself and her thoughts are becoming less black and white and more a muddled gray of maybes
 

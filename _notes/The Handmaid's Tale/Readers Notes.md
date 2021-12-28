@@ -97,3 +97,12 @@ permalink: /
 
 193
 
+>"Maybe you light up in the dark, like an old-fashioned watch."
+- [[Offred]] is talking about how the air was polluted and now people may be contaminated and different things that might happen to you because of it
+	- this is why baby's are a rare commodity, one in four [[Offred]] tells us.
+	- but this particular line is a reference to "the radium girls" that used to paint the watch dials with radium paints before they knew that radium was highly radio active
+		- because they did not yet know that radium was dangerous  the women (and they were only women because it was believed that their small and delicate hands where better for the job) would treat this paint like it was any other
+			- its probably unnecessary to explain the whole case of the radium girls but i just wanted to point out that it is a good subtle reference
+
+- [[Offred]]'s mother in an [[unwomen]]?
+- 
