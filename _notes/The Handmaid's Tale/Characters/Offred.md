@@ -21,7 +21,7 @@
 
 - it is implied that Offred is not "a true believer" in the system
 
-> "thinking can hurt your chances, and i intend to last"
+> "thinking can hurt your chances, and I intend to last"
 > -pg. 8
 
 - Offred sees herself as a reward, "a bone teasing a dog" this makes her feel [[Power|powerful]], she holds this [[Power]] over the [[Guardians of the Faith|guards]], not for any leverage but simply for her own entertainment
@@ -37,7 +37,7 @@
 		- What happened to that child?
 			- she died when she was five - page 72
 			- now offred is saying she's not dead..?
-			>"Eight, she must be now. I've filled in the time I lost, I know how much there's been. They were right, it's easier, to think of her as dead. I don't have to hope then, or make a wasted effort. Why bash your head, said [[Aunt Lydia]], against a wall? Sometimes she had a graphic way of putting things."
+			>"Eight, she must be now. I've filled in the time I lost, I know how much there's been. They were right, it's easier, to think of her as dead. Idon't have to hope then, or make a wasted effort. Why bash your head, said [[Aunt Lydia]], against a wall? Sometimes she had a graphic way of putting things."
 			>-pg. 73
 	- Or is it all a metaphor?
 
@@ -64,14 +64,14 @@
 
 - Offred has had other(at least one) [[commanders]] before [[The Commander]]
 
->"I ought to feel hatred for this man([[The Commander]]). I know I ought to feel it, but it isn't what I do feel. What I feel is more complicated than that. I don't know what to call it. It isn't [[love]]."
+>"I ought to feel hatred for this man([[The Commander]]). I know I ought to feel it, but it isn't what I do feel. What I feel is more complicated than that. Idon't know what to call it. It isn't [[love]]."
 
 >"I go to the window and sit on the window seat, which is too narrow for comfort. There's a hard little cushion on it, with a petit-point cover: FAITH, in square print, surrounded by a wreath of lilies. FAITH is a faded blue, the leaves of the lilies a dingy green. This is a cushion once used elsewhere, worn but not enough to throw out. Somehow it's been overlooked."
 >-pg. 64
 
 - this cushion is in [[Offred]]'s room yet it is [[Colours|green and blue, not red]]
 
->"My nakedness is strange to me already. My body seems outdated. Did I really wear bathing suits, at the beach? I did, without thought, among men, without caring that my legs, my arms, my thighs and back were on display, could be seen. *Shameful, immodest.* I avoid looking down at my body, not so much because it's shameful or immodest but because I don't want to see it. I don't want to look at something that determines me so completely."
+>"My nakedness is strange to me already. My body seems outdated. Did I really wear bathing suits, at the beach? I did, without thought, among men, without caring that my legs, my arms, my thighs and back were on display, could be seen. *Shameful, immodest.* I avoid looking down at my body, not so much because it's shameful or immodest but because Idon't want to see it. Idon't want to look at something that determines me so completely."
 >-pg. 71
 
 >"I cannot avoid seeing, now, the small tattoo on my ankle. Four digits and an eye, a passport in reverse. It's supposed to guarantee that I will never be able to fade, finally, into another landscape. I am too important, too scarce, for that. I am a national resource."
@@ -80,7 +80,7 @@
 >"I wait. I compose myself. My self is a thing I must now compose, as one composes a speech. What I must present is a made thing, not something born."
 >-pg.75
 
->"how she([[Serena]]) must hate me, i think"
+>"how she([[Serena]]) must hate me, I think"
 
 >"I want [[Luke]] here so badly. I want to be held and told my name. I want to be valued, in ways that I am not; I want to be more than valuable. I repeat my former name, remind myself of what I once could do, how others saw me.
 >I want to steal something."
@@ -98,3 +98,4 @@
 >pg 125
 - Offred is becoming less and less sure of herself and her thoughts are becoming less black and white and more a muddled gray of maybes
 
+>"I would rather have the disapproval, I feel more worthy of it"

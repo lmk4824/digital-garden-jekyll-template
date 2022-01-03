@@ -30,3 +30,6 @@ aliases: society
 
 >"Remember, said [[Aunt Lydia]]. For our purposes your feet and your hands are not essential."
 >-pg. 104
+
+>"'Hello,' he says. It's the old form of greeting. I haven't heard it for a long time, for years. Under the circumstances it seems out of place, comical even, a flip backward in time, a stunt. I can think of nothing appropriate to say in return."
+>pg 159

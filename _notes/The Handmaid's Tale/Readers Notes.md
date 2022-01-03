@@ -94,9 +94,6 @@ permalink: /
 
 - **chapter 16, 106-110, the ceremony**
 
-
-193
-
 >"Maybe you light up in the dark, like an old-fashioned watch."
 - [[Offred]] is talking about how the air was polluted and now people may be contaminated and different things that might happen to you because of it
 	- this is why baby's are a rare commodity, one in four [[Offred]] tells us.
@@ -105,4 +102,16 @@ permalink: /
 			- its probably unnecessary to explain the whole case of the radium girls but i just wanted to point out that it is a good subtle reference
 
 - [[Offred]]'s mother in an [[unwomen]]?
-- 
+
+>"How easy it is to invent a humanity, for anyone at all. What an available temptation."
+>pg 168
+
+
+>"Don't let the bastards grind you down.'" = "Nolite te bastardes carborundorum"
+
+- betrayal; "like being in an elevator cut loose from the top. Falling, falling, not knowing when you will hit."
+
+
+
+358
+63

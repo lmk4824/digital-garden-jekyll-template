@@ -12,3 +12,13 @@
 
 - writing is forbidden
 	- possibly just for women
+		- yes just for women
+		- although aunts are an exception
+
+
+>"[plastic cards for payment] seems so primitive, totemistic even, like cowrie shells. I must have used that kind of money myself, a little, before everything went on the Compubank. I guess that's how they were able to do it, in the way they did, all at once, without anyone knowing beforehand. If there had still been It was after the catastrophe, when they shot the President and machine-gunned the Congress and the army declared a state of emergency. They blamed it on the Islamic fanatics, at the time. Keep calm, they said on television. Everything is under control. I was stunned. Everyone was, I know that. It was hard to believe. The entire government, gone like that. How did they get in, how did it happen? That was when they suspended the Constitution. They said it would be temporary. There wasn't even any rioting in the streets. People stayed home at night, watching television, looking for some direction. There wasn't even an enemy you could put your finger on. Look out, said Moira to me, over the phone. Here it comes."
+
+
+- shortly after this, all female accounts were frozen and their money was transferred to husbands or male next of kin
+- at the same time it was mad illegal for women to have jobs and subsequently all women were fired from their place of employment
+- 
