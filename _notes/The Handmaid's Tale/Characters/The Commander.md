@@ -6,4 +6,4 @@ title: The Commander
 You may be looking for the role known as ""[[Commanders]]"".*
 - we don't know much about The Commander other than that he holds a high rank
 
-- after meeting the commander and [[Offred]] spending more time with him i actually like him
+- after meeting the commander and [[Offred]] spending more time with him he dosen't seems as bad as i thought

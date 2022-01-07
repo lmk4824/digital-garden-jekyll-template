@@ -9,7 +9,7 @@
 - Offred is a [[Handmaids|Handmaid]]
 
 > "the room, not my room"
-> -pg. 9
+>-pg. 9
 
 - Offred does not want to call the room which she stays and keeps her belongings in her room
 - perhaps because she does not feel she belongs there
@@ -22,7 +22,7 @@
 - it is implied that Offred is not "a true believer" in the system
 
 > "thinking can hurt your chances, and I intend to last"
-> -pg. 8
+>-pg. 8
 
 - Offred sees herself as a reward, "a bone teasing a dog" this makes her feel [[Power|powerful]], she holds this [[Power]] over the [[Guardians of the Faith|guards]], not for any leverage but simply for her own entertainment
 

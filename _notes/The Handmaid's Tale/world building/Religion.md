@@ -11,4 +11,4 @@
 >"I pray silently: *Nolite te bastardes carborundorum.* I don't know what it means, but it sounds right, and it will have to do, because I don't know what else I can say to God. Not right now. Not, as they used to say, at this juncture. The scratched writing on my cupboard wall floats before me, left by an unknown woman, with the face of [[Moira]]."
 
 >"You might even provide a Heaven for them. We need You for that. Hell we can make for ourselves."
->pg 225
+>-pg. 225

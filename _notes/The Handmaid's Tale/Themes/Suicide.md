@@ -8,7 +8,7 @@ aliases: kill himself, kill herself, kill themselves, killing himself, killing h
 - quite a bit of effort seems to be put into keeping the [[Handmaids]] for killing themselves
 
 > "It isn't running away they're afraid of. We wouldn't get far. It's those other escapes, the ones you can open in yourself, given a cutting edge."
-> -pg. 8
+>-pg. 8
 
 >"how could they have overlooked the hooks? Why didn't they remove them? to close to the floor? But still, a stocking, that's all you'd need."
 >-pg. 57

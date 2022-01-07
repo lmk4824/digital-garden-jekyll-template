@@ -3,6 +3,8 @@
 - [[Handmaids]] = Red
 - [[Guardians of the Faith]] = Green
 - what colour are [[marthas]]
+	- green
+- [[The Aunts]] = Brown
 
 - Econ= same colours but striped
 
