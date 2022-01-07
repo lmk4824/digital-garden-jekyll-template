@@ -1,1 +1,1 @@
-- the colonies are remote units of women  known as [[Unwomen]] that were tasked with hard labor often in very dangerous conditions as
+- the colonies are remote units of women  known as [[Unwomen]] that were tasked with hard labor often in very dangerous conditions as the life expectancy for [[Unwomen]] was 3-4 years
