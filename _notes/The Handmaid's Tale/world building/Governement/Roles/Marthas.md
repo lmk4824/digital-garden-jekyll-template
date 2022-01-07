@@ -11,18 +11,18 @@
 
 
 >"I don't sit, but take my place, kneeling"
->-pg. 89
+> -pg. 89
 
 >"[[Cora]] comes in first, then [[Rita]]"
 >"[[Nick]] walks in, [...] He too takes his place behind me, standing."
->-pg. 91
+> -pg. 91
 
 >"[[Serena]] makes her way to her chair"
->-pg. 92
+> -pg. 92
 
 
 >"One kneeling woman in red, one seated woman in blue, two in green, standing, a solitary man, thin-faced, in the background."
->-pg. 99
+> -pg. 99
 
 - kneeling women in red = [[Offred]]
 - solitary man, thin-faced, in the background = [[Nick]]
