@@ -1,4 +1,4 @@
-- the first time Moira is mentioned is on page four amongst the list of names the girls whisper in the gymnasium
+- the first time Moira is mentioned is on page four amongst the list of names the girls whisper in [[The Red Center]]
 - she is not mentioned again until page 62 were she seems to be a friend of [[Offred]]'s, likely also a [[Handmaids|handmaid]], perhaps a room mate
 	- a best friend
 	- Moira escaped "[[The Red Center]]" when her and [[Offred]] where there together and so [[Offred]] began to idolized her
