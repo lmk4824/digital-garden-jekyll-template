@@ -1,3 +1,1 @@
-- is this the town where [[Offred]] lives?
-- is it where the war is?
-- is it [[Offred]]'s home town?
+- this is where [[Offred]] lives in current timeline events

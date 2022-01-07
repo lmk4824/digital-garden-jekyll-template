@@ -113,5 +113,34 @@ permalink: /
 
 
 
-358
-63
+>"Better never means better for everyone, ([[The Commander]]) says. It always means worse, for some."
+>pg 244
+
+>"people will do anything rather than admit their lives have no meaning"
+>pg 249
+
+>"freedom, like everything else, is relative"
+>pg 267
+
+
+>"a movie about the past is not the same as the past."
+>pg 272
+
+>"This is what she says, whispers, more or less. I can't remember exactly, because I had no way of writing it down. I've filled it out for her as much as I can: we didn't have much time so she just gave the outlines. Also she told me this in two sessions, we managed a second break together. I've tried to make it sound as much like her as I can. It's a way of keeping her alive."
+>pg 282
+
+- this all but confirms that this book is not in fact an internal monologue of [[Offred]] and is instead likely a diary of sorts
+	- this dosen't change much but it could affect how we need to       interpret what she tells us
+		- especial when she is speaking of herself
+
+- the first time [[Offred]] cries in present tense is also the first time she is alone with [[Nick]]
+
+
+- is pain a theme of this story?
+	- page 307
+
+>"Faith is only a word embroidered."
+>pg 337
+
+>"The world is full of weapons if your looking for them"
+>pg 337

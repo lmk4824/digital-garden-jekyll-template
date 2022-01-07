@@ -99,3 +99,6 @@
 - Offred is becoming less and less sure of herself and her thoughts are becoming less black and white and more a muddled gray of maybes
 
 >"I would rather have the disapproval, I feel more worthy of it"
+
+>"You'll have to forgive me. I'm a refugee from the past, and like other refugees I go over the customs and habits of being I've left or been forced to leave behind me, and it all seems just as quaint, from here, and I am just as obsessive about it. Like a White Russian drinking tea in Paris, marooned in the twentieth century, I wander back, try to regain those distant pathways; I become too maudlin, lose myself. Weep. Weeping is what it is, not crying. I sit in this chair and ooze like a sponge."
+>pg263
