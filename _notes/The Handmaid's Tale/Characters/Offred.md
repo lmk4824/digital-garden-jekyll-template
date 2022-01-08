@@ -18,7 +18,6 @@
 	- if we assume that she is writing this book in say a journal, this seeming almost accidental mislabeling could point to Offred not believing everything she tells herself and not being quite as unmovable as she presents herself to be
 - she decides to continue to call it her room from now on
 
-
 - it is implied that Offred is not "a true believer" in the system
 
 > "thinking can hurt your chances, and I intend to last"

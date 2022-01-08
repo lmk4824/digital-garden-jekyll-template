@@ -97,21 +97,18 @@ permalink: /
 >"Maybe you light up in the dark, like an old-fashioned watch."
 - [[Offred]] is talking about how the air was polluted and now people may be contaminated and different things that might happen to you because of it
 	- this is why baby's are a rare commodity, one in four [[Offred]] tells us.
-	- but this particular line is a reference to "the radium girls" that used to paint the watch dials with radium paints before they knew that radium was highly radio active
+	- but this particular line is a reference to "[the radium girls](https://en.wikipedia.org/wiki/Radium_Girls)" that used to paint the watch dials with radium paints before they knew that radium was highly radioactive
 		- because they did not yet know that radium was dangerous  the women (and they were only women because it was believed that their small and delicate hands where better for the job) would treat this paint like it was any other
-			- its probably unnecessary to explain the whole case of the radium girls but i just wanted to point out that it is a good subtle reference
+			- not to explain the whole case of the radium girls but i just wanted to point out that it is a good subtle reference
 
 - [[Offred]]'s mother in an [[unwomen]]?
 
 >"How easy it is to invent a humanity, for anyone at all. What an available temptation."
 > -pg. 168
 
-
->"Don't let the bastards grind you down.'" = "Nolite te bastardes carborundorum"
+>"Nolite te bastardes carborundorum." = "Don't let the bastards grind you down.'"
 
 - betrayal; "like being in an elevator cut loose from the top. Falling, falling, not knowing when you will hit."
-
-
 
 >"Better never means better for everyone, ([[The Commander]]) says. It always means worse, for some."
 > -pg. 244
@@ -121,7 +118,6 @@ permalink: /
 
 >"freedom, like everything else, is relative"
 > -pg. 267
-
 
 >"a movie about the past is not the same as the past."
 > -pg. 272
@@ -134,7 +130,6 @@ permalink: /
 		- especial when she is speaking of herself
 
 - the first time [[Offred]] cries in present tense is also the first time she is alone with [[Nick]]
-
 
 - is pain a theme of this story?
 	- page 307
