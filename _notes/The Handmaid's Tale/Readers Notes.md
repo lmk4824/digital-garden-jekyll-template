@@ -124,7 +124,6 @@ permalink: /
 
 >"This is what she says, whispers, more or less. I can't remember exactly, because I had no way of writing it down. I've filled it out for her as much as I can: we didn't have much time so she just gave the outlines. Also she told me this in two sessions, we managed a second break together. I've tried to make it sound as much like her as I can. It's a way of keeping her alive."
 > -pg. 282
-
 - this all but confirms that this book is not in fact an internal monologue of [[Offred]] and is instead likely a diary of sorts
 	- this dosen't change much but it could affect how we need to       interpret what she tells us
 		- especial when she is speaking of herself
