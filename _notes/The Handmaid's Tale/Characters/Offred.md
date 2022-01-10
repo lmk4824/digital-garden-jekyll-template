@@ -13,9 +13,9 @@
 - Offred does not want to call the room which she stays and keeps her belongings in her room
 	- perhaps because she does not feel she belongs there
 	- at the end of chapter eight(pg. 54) she finally calls it her room
-		- she dos this after seeing [[The Commander]] at the doorway of her room and she states that he broke protocol
+		- she does this after seeing [[The Commander]] at the doorway of her room and she states that he broke protocol
 		- if we assume that she is writing this book in say a journal, this seeming almost accidental mislabeling could point to Offred not believing everything she tells herself and not being quite as unmovable as she presents herself to be
-	- she decides to continue to call it her room from now on
+		- she decides to continue to call it her room from now on
 
 - it is implied that Offred is not "a true believer" in the system
 
