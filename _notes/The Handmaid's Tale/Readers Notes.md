@@ -58,7 +58,8 @@ permalink: /
 - the guards that carry guns are not [[Guardians of the Faith]] but are specially picked [[Angels]]
 
 - is this new [[Culture|society]] worldwide or just the united states?
-	- just the us or at least just north America
+	- just the US or at least just north America
+		- Canada is consider a safe place for escape so just the US
 
 - many other women had stayed in what is now [[Offred]]'s room b4 her
 
@@ -74,7 +75,6 @@ permalink: /
 
 >"I thought it was an isolated incident, at the time."
 > -pg. 72
-
 - this is [[Offred]] talking about when her daughter was taken in a grocery store
 
 >"i think of the others, those without"
