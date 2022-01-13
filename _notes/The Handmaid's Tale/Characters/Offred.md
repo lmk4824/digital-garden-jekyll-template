@@ -10,6 +10,7 @@
 
 > "the room, not my room"
 > -pg. 9
+
 - Offred does not want to call the room which she stays and keeps her belongings in her room
 	- perhaps because she does not feel she belongs there
 	- at the end of chapter eight(pg. 54) she finally calls it her room
@@ -28,6 +29,7 @@
 
 >“It smells of me, in [[The Time Before|former times]], when I was a mother.”
 > -pg. 52
+
 - Offred had a child? 
 	- When?
 	- Why doesn’t she anymore? 
@@ -57,7 +59,7 @@
 
 - Offred is very clever
 
-- when Offred, [[Luke]] and offred's daughter(we don't know if [[Luke]] is the father) lived together, they had a cat
+- when Offred, [[Luke]] and Offred's daughter(we don't know if [[Luke]] is the father) lived together, they had a cat
 
 - Offred has had other (at least one) [[commanders]] before [[The Commander]]
 
@@ -65,6 +67,7 @@
 
 >"I go to the window and sit on the window seat, which is too narrow for comfort. There's a hard little cushion on it, with a petit-point cover: FAITH, in square print, surrounded by a wreath of lilies. FAITH is a faded blue, the leaves of the lilies a dingy green. This is a cushion once used elsewhere, worn but not enough to throw out. Somehow it's been overlooked."
 > -pg. 64
+
 - this cushion is in [[Offred]]'s room yet it is [[Colours|green and blue, not red]]
 
 >"My nakedness is strange to me already. My body seems outdated. Did I really wear bathing suits, at the beach? I did, without thought, among men, without caring that my legs, my arms, my thighs and back were on display, could be seen. *Shameful, immodest.* I avoid looking down at my body, not so much because it's shameful or immodest but because I don't want to see it. I don't want to look at something that determines me so completely."
@@ -87,11 +90,13 @@
 
 >"I believe in thought transference now, vibrations in the ether, that sort of junk."
 > -pg. 121
+
 - Offred is desperate
-	- her [[Love]] for [[Luke]] is making her believe in the other-worldly simply because it brings her comfort to believe that he is thinking of her and that he is not lost
+	- her [[Love]] for [[Luke]] is making her believe in the other-worldly, simply because it brings her comfort to believe that he is thinking of her and that he is not lost
 
 >"Maybe the life I think I'm living is a paranoid delusion."
 > -pg. 125
+
 - Offred is becoming less and less sure of herself and her thoughts are becoming less black and white and more a muddled gray of maybes
 
 >"I would rather have the disapproval, I feel more worthy of it"

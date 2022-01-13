@@ -18,4 +18,4 @@
 
 
 - shortly after this, all female accounts were frozen and their money was transferred to husbands or male next of kin
-- at the same time it was mad illegal for women to have jobs and subsequently all women were fired from their place of employment
+- at the same time it was made illegal for women to have jobs and subsequently all women were fired from their place of employment

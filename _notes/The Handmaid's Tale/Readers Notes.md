@@ -59,7 +59,7 @@ permalink: /
 
 - is this new [[Culture|society]] worldwide or just the united states?
 	- just the US or at least just north America
-		- Canada is consider a safe place for escape so just the US
+		- Canada is considered a safe place for escape so just the US
 
 - many other women had stayed in what is now [[Offred]]'s room b4 her
 
@@ -88,20 +88,21 @@ permalink: /
 >"you cant expect a child to lie convincingly"
 > -pg. 96
 
-- when [[the commander]] reads from the bible, we are told what he reads from [[Offred]]'s internal monologue, nothing is quoted and anything that seems to be a quote is simply in italics, implying that she is thinking of the quote rather than hearing it, until the end when we get this:
-	>""And Leah said, God hath given me my hire, because I have given my maiden to my husband," says [[the Commander]]. He lets the book fall closed."
+- when [[The Commander]] reads from the bible, we are told what he reads from [[Offred]]'s internal monologue, nothing is quoted and anything that seems to be a quote is simply in italics, implying that she is thinking of the quote rather than hearing it, until the end when we get this:
+	>And Leah said, God hath given me my hire, because I have given my maiden to my husband," says [[the Commander]]. He lets the book fall closed."
 	> -pg. 102
 
-- **chapter 16, 106-110, the ceremony**
+- **chapter 16, pages 106-110, the ceremony**
 
 >"Maybe you light up in the dark, like an old-fashioned watch."
+
 - [[Offred]] is talking about how the air was polluted and now people may be contaminated and different things that might happen to you because of it
 	- this is why baby's are a rare commodity, one in four [[Offred]] tells us.
 	- but this particular line is a reference to "[the radium girls](https://en.wikipedia.org/wiki/Radium_Girls)" that used to paint the watch dials with radium paints before they knew that radium was highly radioactive
 		- because they did not yet know that radium was dangerous  the women (and they were only women because it was believed that their small and delicate hands where better for the job) would treat this paint like it was any other
 			- not to explain the whole case of the radium girls but i just wanted to point out that it is a good subtle reference
 
-- [[Offred]]'s mother in an [[unwomen]]?
+- [[Offred]]'s mother is an [[unwomen]]?
 
 >"How easy it is to invent a humanity, for anyone at all. What an available temptation."
 > -pg. 168
@@ -124,8 +125,9 @@ permalink: /
 
 >"This is what she says, whispers, more or less. I can't remember exactly, because I had no way of writing it down. I've filled it out for her as much as I can: we didn't have much time so she just gave the outlines. Also she told me this in two sessions, we managed a second break together. I've tried to make it sound as much like her as I can. It's a way of keeping her alive."
 > -pg. 282
+
 - this all but confirms that this book is not in fact an internal monologue of [[Offred]] and is instead likely a diary of sorts
-	- this dosen't change much but it could affect how we need to       interpret what she tells us
+	- this dosen't change much but it could affect how we need to interpret what she tells us
 		- especial when she is speaking of herself
 
 - the first time [[Offred]] cries in present tense is also the first time she is alone with [[Nick]]
@@ -136,5 +138,5 @@ permalink: /
 >"Faith is only a word embroidered."
 > -pg. 337
 
->"The world is full of weapons if your looking for them"
+>"The world is full of weapons if you're looking for them"
 > -pg. 337
