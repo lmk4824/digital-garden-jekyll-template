@@ -77,7 +77,8 @@ permalink: /
 
 >"I thought it was an isolated incident, at the time."
 > -pg. 72
-- this is [[Offred]] talking about when her daughter was taken in a grocery store
+	
+- This is [[Offred]] talking about when her daughter was taken in a grocery store
 
 >"i think of the others, those without"
 > -pg. 74
