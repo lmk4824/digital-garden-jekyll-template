@@ -4,8 +4,10 @@ title: Home
 id: Home
 permalink: /
 ---
-# Readers Notes
+# Reader's Notes
 - the [[Handmaids]] are kept in what is described to me as seeming almost prison like
+	- this is [[The Red Center]]
+		- although I don't learn this until much later into the book
 
 >"they've removed anything you could [[Suicide|tie a rope to]]"
 > -pg. 7
@@ -13,18 +15,18 @@ permalink: /
 > "flowers are still allowed"
 > -pg. 7
 
-> "Where i am is not a prison but a privilege, as [[Aunt Lydia]] said"
+> "Where I am is not a prison but a privilege, as [[Aunt Lydia]] said"
 > -pg. 8
 
 - Is [[Rita]] [[the Commander]]'s [[Wives|wife]]?
 
-- who are the [[Marthas]]
+- Who are the [[Marthas]]
 
 - tokens are like money but can only be exchanged for specific items
 
 - [[Offred]] has a "pass"
 	- what is this pass for?
-		- it seems to be a form of identification card (pg. 66)
+		- It seems to be a form of identification card (pg. 66)
 
 - [[Offred]]'s room is [[Suicide]] "proof"
 
@@ -38,9 +40,9 @@ permalink: /
 > "they aren't scarves for gown men but for children"
 > -pg. 14
 
-- the scarves are for [[Angels]]
+- The scarves are for [[Angels]]
 	- are the [[Angels]] children?
-		- but the [[angels]] fight in [[the war]]
+		- But the [[angels]] fight in [[the war]]
 - [[The Commander]]'s [[Wives|wife]] is [[Serena|Serena Joy]]
 
 - [[The Commander]]'s driver is named [[Nick]]
@@ -51,15 +53,15 @@ permalink: /
 
 - [[Ofglen]] is [[Offred]]'s [[Handmaids travel in pairs|partner]]
 
-- there is a [[The War|war]]?
+- There is a [[The War|war]]?
 
-- different designations of people have different [[Colours]]
+- Different designations of people have different [[Colours]]
 
 - the guards that carry guns are not [[Guardians of the Faith]] but are specially picked [[Angels]]
 
-- is this new [[Culture|society]] worldwide or just the united states?
-	- just the US or at least just north America
-		- Canada is considered a safe place for escape so just the US
+- Is this new [[Culture|society]] worldwide, or just the United States?
+	- Just the US or at least just North America
+		- Canada is considered a safe place for escape so just the US.
 
 - many other women had stayed in what is now [[Offred]]'s room b4 her
 
@@ -85,10 +87,10 @@ permalink: /
 
 - see page 82: rape shaming, blaming the victim publicly
 
->"you cant expect a child to lie convincingly"
+>"you can't expect a child to lie convincingly"
 > -pg. 96
 
-- when [[The Commander]] reads from the bible, we are told what he reads from [[Offred]]'s internal monologue, nothing is quoted and anything that seems to be a quote is simply in italics, implying that she is thinking of the quote rather than hearing it, until the end when we get this:
+- When [[The Commander]] reads from the bible, we are told what he reads from [[Offred]]'s internal monologue, nothing is quoted and anything that seems to be a quote is simply in italics, implying that she is thinking of the quote rather than hearing it, until the end when we get this:
 	>And Leah said, God hath given me my hire, because I have given my maiden to my husband," says [[the Commander]]. He lets the book fall closed."
 	> -pg. 102
 
@@ -97,10 +99,10 @@ permalink: /
 >"Maybe you light up in the dark, like an old-fashioned watch."
 
 - [[Offred]] is talking about how the air was polluted and now people may be contaminated and different things that might happen to you because of it
-	- this is why baby's are a rare commodity, one in four [[Offred]] tells us.
-	- but this particular line is a reference to "[the radium girls](https://en.wikipedia.org/wiki/Radium_Girls)" that used to paint the watch dials with radium paints before they knew that radium was highly radioactive
-		- because they did not yet know that radium was dangerous  the women (and they were only women because it was believed that their small and delicate hands where better for the job) would treat this paint like it was any other
-			- not to explain the whole case of the radium girls but i just wanted to point out that it is a good subtle reference
+	- this is why babies are a rare commodity, one in four, [[Offred]] tells us.
+	- But this particular line is a reference to "[the radium girls](https://en.wikipedia.org/wiki/Radium_Girls)" that used to paint the watch dials with radium paints before they knew that radium was highly radioactive
+		- because they did not yet know that radium was dangerous  the women (and they were only women because it was believed that their small and delicate hands were better for the job) would treat this paint like it was any other
+			- not to explain the whole case of the radium girls but I just wanted to point out that it is a good subtle reference.
 
 - [[Offred]]'s mother is an [[unwomen]]?
 
@@ -109,7 +111,7 @@ permalink: /
 
 >"Nolite te bastardes carborundorum." = "Don't let the bastards grind you down.'"
 
-- betrayal; "like being in an elevator cut loose from the top. Falling, falling, not knowing when you will hit."
+- Betrayal; "like being in an elevator cut loose from the top. Falling, falling, not knowing when you will hit."
 
 >"Better never means better for everyone, ([[The Commander]]) says. It always means worse, for some."
 > -pg. 244
@@ -127,13 +129,13 @@ permalink: /
 > -pg. 282
 
 - this all but confirms that this book is not in fact an internal monologue of [[Offred]] and is instead likely a diary of sorts
-	- this dosen't change much but it could affect how we need to interpret what she tells us
+	- this doesn't change much, but it could affect how we need to interpret what she tells us
 		- especial when she is speaking of herself
 
 - the first time [[Offred]] cries in present tense is also the first time she is alone with [[Nick]]
 
-- is pain a theme of this story?
-	- page 307
+- Is pain a theme of this story?
+	- Page 307
 
 >"Faith is only a word embroidered."
 > -pg. 337
