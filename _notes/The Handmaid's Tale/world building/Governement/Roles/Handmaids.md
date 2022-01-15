@@ -1,7 +1,6 @@
 ---
 aliases: Handmaid
 ---
-
 - Handmaids are women of lesser [[Power]] (basically none) who are assigned to [[Commanders]] to bear their children
 
 - if a handmaid is pregnant they become far more valuable and are treated accordingly 

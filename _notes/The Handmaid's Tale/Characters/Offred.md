@@ -23,7 +23,7 @@
 > "thinking can hurt your chances, and I intend to last"
 > -pg. 8
 
-- Offred sees herself as a reward, "a bone teasing a dog" this makes her feel [[Power|powerful]], she holds this [[Power]] over the [[Guardians of the Faith|guards]], not for any leverage but simply for her own entertainment
+- Offred sees herself as a reward, "a bone teasing a dog" this makes her feel [[Power|powerful]] in a word where she has very little, she holds this [[Power]] over the [[Guardians of the Faith|guards]], not for any leverage but simply for her own entertainment
 
 - Offred was alive during [[The Time Before]]
 
